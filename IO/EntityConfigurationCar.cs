@@ -7,7 +7,7 @@ using REPO;
 namespace IO
 {
     public class EntityConfigurationCar : EntityTypeConfiguration<Car>
-    {
+    {//git push
         public EntityConfigurationCar()
         {
             this.ToTable("Cars");
